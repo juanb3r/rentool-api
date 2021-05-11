@@ -1,0 +1,42 @@
+[
+  {
+    "categoria": "FORMALETAS METALICAS", 
+    "fecha": "Mon, 13 Jul 2020 00:00:00 GMT", 
+    "idCat": 1
+  }, 
+  {
+    "categoria": "EQUIPOS DE CONSTRUCCION", 
+    "fecha": "Mon, 13 Jul 2020 00:00:00 GMT", 
+    "idCat": 2
+  }, 
+  {
+    "categoria": "ANDAMIOS TUBULARES", 
+    "fecha": "Mon, 13 Jul 2020 00:00:00 GMT", 
+    "idCat": 3
+  }, 
+  {
+    "categoria": "OTROS EQUIPOS", 
+    "fecha": "Mon, 13 Jul 2020 00:00:00 GMT", 
+    "idCat": 4
+  }, 
+  {
+    "categoria": "FORMALETAS DE COLUMNAS", 
+    "fecha": "Mon, 13 Jul 2020 00:00:00 GMT", 
+    "idCat": 5
+  }, 
+  {
+    "categoria": "ESCALERAS", 
+    "fecha": "Mon, 13 Jul 2020 00:00:00 GMT", 
+    "idCat": 6
+  }, 
+  {
+    "categoria": "ANDAMIOS CERTIFICADOS BETO", 
+    "fecha": "Fri, 19 Jun 2020 14:19:38 GMT", 
+    "idCat": 8
+  }, 
+  {
+    "categoria": "ANDAMIOS CERTIFICADOS ", 
+    "fecha": "Mon, 13 Jul 2020 00:00:00 GMT", 
+    "idCat": 9
+  }
+]
