@@ -1,8 +1,6 @@
 # RENTOOLS-API
 
-Rentools es una aplicación para la gestión del alquiler de herra-
-mientas, que permite la creación de productos, categorias, clien-
-tes, generación de salidas y entradas de los productos alquilados.
+Rentools es una aplicación para la gestión del alquiler de herramientas, que permite la creación de productos, categorias, clientes, generación de salidas y entradas de los productos alquilados.
 
 ## Caracteristicas:
 
@@ -22,11 +20,7 @@ tes, generación de salidas y entradas de los productos alquilados.
 - Flask
 - Flask-restx
 
-El objetivo de este proyecto es acceder a una base de datos remoto,
-y a partir de cada una de sus tablas, crear una clase que pueda ser
-leída y serializada, para una posterior adquisición de un documento
-JSON, que pueda ser usado para la importación de archivo a una NOSQL
-como parte de una migración de base de datos.
+El objetivo de este proyecto es acceder a una base de datos remoto, y a partir de cada una de sus tablas, crear una clase que pueda ser leída y serializada, para una posterior adquisición de un documento .JSON, que pueda ser usado para la importación de archivo a una base de datos NOSQL (MongoDB) como parte de una migración de base de datos.
 
 
 ### Rutas:
